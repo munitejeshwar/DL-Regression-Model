@@ -43,7 +43,7 @@ Use the trained model to predict  for a new input value .
 ### Name:
 
 ### Register Number:
-
+.
 ```python
 class Model(nn.Module):
     def __init__(self, in_features, out_features):
